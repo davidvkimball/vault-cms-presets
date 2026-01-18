@@ -1,0 +1,151 @@
+{
+  "titleBar": "reveal",
+  "fileExplorerNavHeader": "show",
+  "otherNavHeaders": "show",
+  "leftTabHeaders": "show",
+  "rightTabHeaders": "show",
+  "ribbonRevealOnHover": false,
+  "vaultSwitcher": "reveal",
+  "helpButton": "hide",
+  "settingsButton": "reveal",
+  "tabBar": true,
+  "tabBarHideWhenSingle": false,
+  "enableWindowDragging": true,
+  "newNoteButton": false,
+  "newFolderButton": true,
+  "sortOrderButton": false,
+  "autoRevealButton": false,
+  "collapseAllButton": false,
+  "readingModeButton": true,
+  "searchSettingsButton": true,
+  "tabListIcon": "reveal",
+  "newTabIcon": "reveal",
+  "tabCloseButton": "reveal",
+  "statusBar": true,
+  "scrollBars": "hide",
+  "leftSidebarToggleButton": "hide",
+  "rightSidebarToggleButton": "hide",
+  "tooltips": true,
+  "searchSuggestions": true,
+  "searchTermCounts": true,
+  "propertiesInReadingView": true,
+  "propertiesInHeading": true,
+  "addPropertyButton": true,
+  "deemphasizeProperties": true,
+  "instructions": true,
+  "mobileChevronsIcon": true,
+  "navigateBackButton": false,
+  "navigateForwardButton": false,
+  "quickSwitcherButton": false,
+  "mobileNewTabButton": false,
+  "openTabButton": false,
+  "ribbonMenuButton": false,
+  "swapMobileNewTabIcon": false,
+  "hideMobileTitle": true,
+  "hideMobileSyncIcon": true,
+  "navigateButtonPosition": "1",
+  "navigationButtonPosition": "2",
+  "quickSwitcherPosition": "3",
+  "newTabPosition": "4",
+  "openTabsPosition": "5",
+  "ribbonMenuPosition": "6",
+  "vaultSwitcherBackgroundTransparency": 0,
+  "helpButtonReplacement": {
+    "enabled": false,
+    "commandId": "",
+    "iconId": "wrench"
+  },
+  "syncButtonReplacement": {
+    "enabled": false,
+    "commandId": "",
+    "iconId": "wrench"
+  },
+  "tabBarCommands": [],
+  "statusBarItems": [
+    {
+      "id": "plugin-editor-status;1",
+      "name": "plugin-editor-status",
+      "type": "existing",
+      "hidden": true,
+      "mdOnly": false,
+      "sticky": "left"
+    },
+    {
+      "id": "plugin-word-count;1",
+      "name": "0 words0 characters",
+      "type": "existing",
+      "hidden": false,
+      "mdOnly": false
+    },
+    {
+      "id": "plugin-editing-toolbar-editingToolbar-statusbar-button;1",
+      "name": "plugin-editing-toolbar-editingToolbar-statusbar-bu",
+      "type": "existing",
+      "hidden": true,
+      "mdOnly": false
+    },
+    {
+      "id": "plugin-obsidian-git-branch;1",
+      "name": "master",
+      "type": "existing",
+      "hidden": false,
+      "mdOnly": false,
+      "sticky": "right"
+    },
+    {
+      "id": "plugin-obsidian-git;1",
+      "name": "Git is ready",
+      "type": "existing",
+      "hidden": true,
+      "mdOnly": false,
+      "sticky": "right"
+    }
+  ],
+  "explorerCommands": [],
+  "explorerButtonItems": [
+    {
+      "id": "native-newNote",
+      "name": "New note",
+      "ariaLabel": "New note",
+      "type": "native",
+      "hidden": false
+    },
+    {
+      "id": "native-newFolder",
+      "name": "New folder",
+      "ariaLabel": "New folder",
+      "type": "native",
+      "hidden": true
+    },
+    {
+      "id": "native-sortOrder",
+      "name": "Change sort order",
+      "ariaLabel": "Change sort order",
+      "type": "native",
+      "hidden": false
+    },
+    {
+      "id": "native-autoReveal",
+      "name": "Auto-reveal current file",
+      "ariaLabel": "Auto-reveal current file",
+      "type": "native",
+      "hidden": false
+    },
+    {
+      "id": "native-collapseAll",
+      "name": "Collapse all",
+      "ariaLabel": "Collapse all",
+      "type": "native",
+      "hidden": false
+    },
+    {
+      "id": "external-toggle-focus",
+      "name": "Toggle focus",
+      "ariaLabel": "Toggle focus",
+      "type": "external",
+      "hidden": false
+    }
+  ],
+  "nativeExplorerButtonColors": {},
+  "nativeExplorerButtonIcons": {}
+}

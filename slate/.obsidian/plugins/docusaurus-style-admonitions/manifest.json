@@ -1,0 +1,10 @@
+{
+	"id": "docusaurus-style-admonitions",
+	"name": "Docusaurus Style Admonitions",
+	"version": "0.1.2",
+	"minAppVersion": "1.4.0",
+	"description": "Adds Docusaurus style admonitions",
+	"author": "Ralf Weinbrecher",
+	"authorUrl": "https://github.com/rwbr",
+	"isDesktopOnly": false
+}
