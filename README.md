@@ -6,20 +6,20 @@ This repository contains preconfigured templates for [Vault CMS](https://github.
 
 These presets are designed to be installed using the [Vault CMS CLI](https://github.com/davidvkimball/vault-cms#installation-guide). 
 
-Run the following command in your Astro project root, replacing `template-name` with one of the folders in this repo (e.g., `starlight`, `slate`, or `chiri`):
+Run the following command in your Astro project root and follow the prompts:
 
 ```bash
 # Using pnpm
-pnpm create vault-cms -- --template template-name
+pnpm create vault-cms --template template-name
 
 # Using npm
-npm create vault-cms -- --template template-name
+npm create vault-cms --template template-name
 
 # Using yarn
 yarn create vault-cms --template template-name
 ```
 
-When prompted for the location, the default is `src/content`.
+*Note: Replace `template-name` with `starlight`, `slate`, or `chiri`.*
 
 ### Available Presets
 
