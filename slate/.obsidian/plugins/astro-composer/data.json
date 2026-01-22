@@ -34,6 +34,7 @@
     "iconId": "wrench"
   },
   "showMdxFilesInExplorer": false,
+  "processBackgroundFileChanges": false,
   "linkBasePath": "/posts/",
   "enableAutoRename": true,
   "enableAutoInsertFrontmatter": true,

@@ -3,7 +3,6 @@
   "property-over-file-name",
   "oxygen-settings",
   "vault-cms",
-  "astro-composer",
   "iconic",
   "settings-search",
   "editing-toolbar",
@@ -16,5 +15,7 @@
   "explorer-focus",
   "ui-tweaker",
   "alias-file-name-history",
-  "obsidian42-brat"
+  "obsidian42-brat",
+  "omnisearch",
+  "astro-composer"
 ]

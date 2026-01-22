@@ -1,5 +1,5 @@
 {
-  "defaultTemplate": "---\ntitle: \"{{title}}\"\npubDate: {{date}}\n---\n",
+  "defaultTemplate": "---\ntitle: \"{{title}}\"\ndate: {{date}}\ntags: []\n---\n",
   "autoInsertProperties": true,
   "dateFormat": "YYYY-MM-DD",
   "enableCopyHeadingLink": true,
@@ -9,34 +9,23 @@
   "terminalProjectRootPath": "../../",
   "terminalApplicationName": "",
   "enableTerminalDebugLogging": false,
-  "enableTerminalRibbonIcon": true,
+  "enableTerminalRibbonIcon": false,
   "enableOpenConfigFileCommand": true,
   "configFilePath": "../config.ts",
-  "enableConfigRibbonIcon": true,
+  "enableConfigRibbonIcon": false,
   "contentTypes": [
     {
-      "id": "content-type-1768697093947-paebfcs96",
+      "id": "content-1769063608605",
       "name": "Posts",
       "folder": "posts",
       "linkBasePath": "/",
-      "template": "---\ntitle: \"{{title}}\"\npubDate: {{date}}\n---\n",
+      "template": "---\ntitle: \"{{title}}\"\ndate: {{date}}\n---\n",
       "enabled": true,
       "creationMode": "file",
-      "indexFileName": "index",
+      "indexFileName": "",
       "ignoreSubfolders": false,
-      "enableUnderscorePrefix": true
-    },
-    {
-      "id": "content-type-1768697093947-wkkzwzhto",
-      "name": "About",
-      "folder": "about",
-      "linkBasePath": "/",
-      "template": "---\ntitle: \"{{title}}\"\n---\n",
-      "enabled": true,
-      "creationMode": "file",
-      "indexFileName": "index",
-      "ignoreSubfolders": false,
-      "enableUnderscorePrefix": false
+      "enableUnderscorePrefix": true,
+      "useMdxExtension": false
     }
   ],
   "migrationCompleted": true,
@@ -46,8 +35,5 @@
     "iconId": "wrench"
   },
   "showMdxFilesInExplorer": true,
-  "linkBasePath": "/posts/",
-  "enableAutoRename": true,
-  "enableAutoInsertFrontmatter": true,
-  "draftStyle": "filename"
+  "processBackgroundFileChanges": false
 }
