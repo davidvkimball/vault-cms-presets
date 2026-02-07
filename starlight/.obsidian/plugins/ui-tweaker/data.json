@@ -17,6 +17,7 @@
   "autoRevealButton": false,
   "collapseAllButton": false,
   "readingModeButton": false,
+  "bookmarkedButton": false,
   "searchSettingsButton": false,
   "tabListIcon": "show",
   "newTabIcon": "show",
@@ -176,5 +177,13 @@
     }
   ],
   "nativeExplorerButtonColors": {},
-  "nativeExplorerButtonIcons": {}
+  "nativeExplorerButtonIcons": {},
+  "propertyIconItems": [
+    {
+      "id": "cssclasses",
+      "icon": "lucide-palette"
+    }
+  ],
+  "minimalPropertyIcons": false,
+  "showPropertyMenuActions": true
 }

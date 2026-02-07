@@ -11,15 +11,15 @@
   "enableTerminalDebugLogging": false,
   "enableTerminalRibbonIcon": true,
   "enableOpenConfigFileCommand": true,
-  "configFilePath": "../../astro.config.mjs",
-  "enableConfigRibbonIcon": true,
+  "configFilePath": "../../astro/config.mjs",
+  "enableConfigRibbonIcon": false,
   "contentTypes": [
     {
-      "id": "content-1769064130720",
+      "id": "content-1770497904633",
       "name": "Guides",
       "folder": "docs/guides",
       "linkBasePath": "/guides/",
-      "template": "---\ntitle: \"{{title}}\"\ndate: {{date}}\n---\n",
+      "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\n---\n",
       "enabled": true,
       "creationMode": "file",
       "indexFileName": "",
@@ -28,11 +28,11 @@
       "useMdxExtension": false
     },
     {
-      "id": "content-1769064151901",
+      "id": "content-1770497945157",
       "name": "Reference",
       "folder": "docs/reference",
       "linkBasePath": "/reference/",
-      "template": "---\ntitle: \"{{title}}\"\ndate: {{date}}\n---\n",
+      "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\n---\n",
       "enabled": true,
       "creationMode": "file",
       "indexFileName": "",
@@ -48,5 +48,11 @@
     "iconId": "wrench"
   },
   "showMdxFilesInExplorer": true,
-  "processBackgroundFileChanges": false
+  "processBackgroundFileChanges": false,
+  "syncDraftDate": false,
+  "draftProperty": "",
+  "draftLogic": "true-is-draft",
+  "publishDateField": "",
+  "updateModifiedDate": false,
+  "modifiedDateField": ""
 }

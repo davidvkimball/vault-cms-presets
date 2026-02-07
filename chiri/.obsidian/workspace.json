@@ -21,8 +21,22 @@
               "icon": "lucide-home",
               "title": "Home"
             }
+          },
+          {
+            "id": "cf3751508c2d681a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "_bases/Home.base",
+                "viewName": "Posts"
+              },
+              "icon": "lucide-home",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +155,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "88d0b30a7f727adc",
   "lastOpenFiles": [
     "README.md",
     "_bases/Home.base",
@@ -179,7 +193,6 @@
     "posts/test-page.md",
     "pages/test.md",
     "posts/vault-cms-guide.md",
-    "docs/test.md",
     "posts/attachments/vault-cms-cover.png",
     "docs/attachments/obsidian-cover.png",
     "docs/attachments/astro-modular-configuration.png",

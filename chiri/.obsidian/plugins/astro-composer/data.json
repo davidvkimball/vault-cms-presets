@@ -35,5 +35,11 @@
     "iconId": "wrench"
   },
   "showMdxFilesInExplorer": true,
-  "processBackgroundFileChanges": false
+  "processBackgroundFileChanges": false,
+  "syncDraftDate": false,
+  "draftProperty": "",
+  "draftLogic": "true-is-draft",
+  "publishDateField": "",
+  "updateModifiedDate": false,
+  "modifiedDateField": ""
 }
