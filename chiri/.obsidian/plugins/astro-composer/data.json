@@ -15,7 +15,7 @@
   "enableConfigRibbonIcon": false,
   "contentTypes": [
     {
-      "id": "content-1769063608605",
+      "id": "content-1770538945417",
       "name": "Posts",
       "folder": "posts",
       "linkBasePath": "/",
@@ -32,7 +32,7 @@
   "helpButtonReplacement": {
     "enabled": true,
     "commandId": "astro-composer:edit-astro-config",
-    "iconId": "wrench"
+    "iconId": "rocket"
   },
   "showMdxFilesInExplorer": true,
   "processBackgroundFileChanges": false,

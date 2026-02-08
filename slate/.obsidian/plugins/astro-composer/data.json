@@ -31,7 +31,7 @@
   "helpButtonReplacement": {
     "enabled": true,
     "commandId": "astro-composer:edit-astro-config",
-    "iconId": "wrench"
+    "iconId": "rocket"
   },
   "showMdxFilesInExplorer": false,
   "processBackgroundFileChanges": false,
@@ -40,9 +40,5 @@
   "draftLogic": "true-is-draft",
   "publishDateField": "",
   "updateModifiedDate": false,
-  "modifiedDateField": "",
-  "linkBasePath": "/posts/",
-  "enableAutoRename": true,
-  "enableAutoInsertFrontmatter": true,
-  "draftStyle": "filename"
+  "modifiedDateField": ""
 }
