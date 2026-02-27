@@ -129,12 +129,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "astro-composer:Open project terminal": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "seo:Open SEO audit panel": false,
-      "iconic:Open rulebook": false,
       "home-base:Open home base": false,
       "obsidian-git:Open Git source control": false,
       "zenmode:Toggle zen mode": false,

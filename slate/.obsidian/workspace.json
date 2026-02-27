@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aec4efea8a36e7a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -136,14 +136,13 @@
       "seo:Open SEO audit panel": false,
       "astro-composer:Open project terminal": false,
       "astro-composer:Edit astro config": false,
-      "iconic:Open rulebook": false,
       "home-base:Open home base": false,
       "obsidian-git:Open Git source control": false,
       "zenmode:Toggle zen mode": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5aec4efea8a36e7a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_bases/Home.base",
     "README.md",
