@@ -44,7 +44,7 @@ properties:
   note.title:
     displayName: Title
 views:
-  - type: bases-cms
+  - type: cms
     name: Posts
     filters:
       and:

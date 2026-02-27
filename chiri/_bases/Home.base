@@ -43,7 +43,7 @@ properties:
   note.undefined:
     displayName: Undefined
 views:
-  - type: bases-cms
+  - type: cms
     name: Posts
     filters:
       and:
