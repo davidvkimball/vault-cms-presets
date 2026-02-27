@@ -21,22 +21,8 @@
               "icon": "lucide-home",
               "title": "Home"
             }
-          },
-          {
-            "id": "cf3751508c2d681a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
-              },
-              "icon": "lucide-home",
-              "title": "Home"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,14 +134,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "seo:Open SEO audit panel": false,
-      "iconic:Open rulebook": false,
       "home-base:Open home base": false,
       "obsidian-git:Open Git source control": false,
       "zenmode:Toggle zen mode": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88d0b30a7f727adc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md",
     "_bases/Home.base",

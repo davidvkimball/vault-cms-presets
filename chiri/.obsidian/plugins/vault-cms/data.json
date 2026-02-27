@@ -1,5 +1,5 @@
 {
-  "projectRoot": "../../",
+  "projectRoot": "C:\\Users\\david\\Development",
   "configFilePath": "../config.ts",
   "contentTypes": [
     {
@@ -37,7 +37,10 @@
   "attachmentHandlingMode": "specified-folder",
   "attachmentFolderName": "posts/_assets",
   "preset": "vanilla",
-  "enableWYSIWYG": false,
+  "presetName": "",
+  "presetsRepo": "davidvkimball/vault-cms-presets",
+  "enableEditingToolbar": false,
+  "enableExtendedFileTypes": false,
   "enabledPlugins": [
     "astro-composer",
     "bases-cms",
@@ -72,15 +75,8 @@
     "useFilenameAsSlug": true,
     "enableMDXSupport": false
   },
-  "commanderConfig": {
-    "pageHeaderCommands": []
-  },
   "propertyOverFileName": {
     "propertyKey": "title"
-  },
-  "imageInserter": {
-    "valueFormat": "[[attachments/{image-url}]]",
-    "insertFormat": "[[attachments/{image-url}]]"
   },
   "imageManager": {
     "enableRenameOnPaste": true,
@@ -232,8 +228,22 @@
     "gitIgnoreConfigured": true,
     "viteIgnoreConfigured": true
   },
+  "gitConfig": {
+    "enabled": false,
+    "isPrivate": true,
+    "branchName": "main",
+    "autoConfigureObsidianGit": true
+  },
   "runWizardOnStartup": false,
   "wizardCompleted": true,
+  "enableWYSIWYG": false,
+  "commanderConfig": {
+    "pageHeaderCommands": []
+  },
+  "imageInserter": {
+    "valueFormat": "[[attachments/{image-url}]]",
+    "insertFormat": "[[attachments/{image-url}]]"
+  },
   "enableMdxSupport": true,
   "defaultContentTypeId": "content-type-1768697093947-paebfcs96"
 }
