@@ -64,7 +64,7 @@ views:
     propertyDisplay1: file.fullname
     showTextPreview: true
     propertyLabels: above
-  - type: bases-cms
+  - type: cms
     name: About
     filters:
       and:
@@ -84,7 +84,7 @@ views:
     propertyDisplay1: file.fullname
     showTextPreview: true
     propertyLabels: above
-  - type: bases-cms
+  - type: cms
     name: Guide
     filters:
       and:

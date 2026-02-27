@@ -21,8 +21,22 @@
               "icon": "lucide-home",
               "title": "Home"
             }
+          },
+          {
+            "id": "b12a1838ceb26e08",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "_bases/Home.base",
+                "viewName": "Posts"
+              },
+              "icon": "lucide-home",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +154,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b12a1838ceb26e08",
   "lastOpenFiles": [
     "README.md",
     "_bases/Home.base",
